@@ -2,9 +2,9 @@
 This is a simple analogue clock.
 
 ### Built With
--HTML
+-HTML 5
 
--CSS
+-CSS 3
 
 -Javascript
 
